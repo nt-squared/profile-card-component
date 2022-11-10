@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-using-mobilefirst-workflow-dsDTXdBApa](https://www.frontendmentor.io/solutions/order-summary-card-using-mobilefirst-workflow-dsDTXdBApa)
-- Live Site URL: [https://nt-squared.github.io/stats-preview-card-component/](https://nt-squared.github.io/stats-preview-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-D-1SEgfTiE](https://www.frontendmentor.io/solutions/profile-card-component-D-1SEgfTiE)
+- Live Site URL: [https://nt-squared.github.io/profile-card-component/](https://nt-squared.github.io/profile-card-component/)
 
 ## My process
 
