@@ -29,9 +29,12 @@ body {
     font-size: var(--font-size);
     font-weight: var(--fw-400);
     font-family: var(--font-family);
+    background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 50vw bottom 50vh, left 50vw top 50vh;
 }
 
-body::before {
+/* body::before {
     content: "";
     display: block;
     position: absolute;
@@ -54,7 +57,7 @@ body::after {
     inset: 0;
     left: 50%;
     top: 50%;
-}
+} */
 
 .card-image-header {
     background-image: url('../images/bg-pattern-card.svg');
